@@ -1,0 +1,102 @@
+[
+		{
+		"projectname": "My First Quiz",
+		"projectdate": "February 14, 2022",
+		"projectdescription": "First Interactive Quiz",
+		"thumbnail": "assets/firstquiz.jpg",
+		"alttext": "text guessing game",
+		"url": "https://cs50c-week04-25-kikima.srjcethanwilde.repl.co/quiz.html"
+	},
+  {
+		"projectname": "My Second Quiz",
+		"projectdate": "February 21, 2022",
+		"projectdescription": "Second Interactive Quiz",
+		"thumbnail": "assets/quiz2-2.jpg",
+		"alttext": "text guessing game with Drag and Drop",
+		"url": "https://cs50c-week05-20-kikima.srjcethanwilde.repl.co/quiz.html "
+	},
+  {
+  "projectname": "My Third Quiz",
+		"projectdate": "Feb 28, 2022",
+		"projectdescription": "Final JS Quiz",
+		"thumbnail": "assets/quiz.jpg",
+		"alttext": "quiz",
+		"url": "https://cs50c-week06-19-kikima.srjcethanwilde.repl.co/quiz.html"
+	},
+	{
+		"projectname": "My First Carousel",
+		"projectdate": "March 7, 2022",
+		"projectdescription": "jQuery plug-in promo site",
+		"thumbnail": "assets/promo.jpg",
+		"alttext": "jQuery plug-ins and carousel",
+		"url": "https://cs50c-week07-18-kikima.srjcethanwilde.repl.co/promo.html"
+	},
+	{
+		"projectname": "My First Map",
+		"projectdate": "March 14, 2022",
+		"projectdescription": "Custom Google API map",
+		"thumbnail": "assets/map1.jpg",
+		"alttext": "Sebastopol Map",
+		"url": "https://cs50c-week08-20-kikima.srjcethanwilde.repl.co/"
+	},
+  {
+		"projectname": "My Midterm Map",
+		"projectdate": "March 28, 2022",
+		"projectdescription": "Google Map with JSON data",
+		"thumbnail": "assets/map2.jpg",
+		"alttext": "google map with markers",
+		"url": "https://cs50c-week09-16-kikima.srjcethanwilde.repl.co/"
+	},
+  {
+		"projectname": "First Data Visualization",
+		"projectdate": "April 11, 2022",
+		"projectdescription": "Pie chart construction",
+		"thumbnail": "assets/Datachart.jpg",
+		"alttext": "pie chart",
+		"url": "https://cs50c-week11-17-kikima.srjcethanwilde.repl.co/"
+	},
+  
+	{
+		"projectname": "My Second Data Viz",
+		"projectdate": "April 18, 2022",
+		"projectdescription": "Data visualization with JSON",
+		"thumbnail": "assets/viz.jpg",
+		"alttext": "MyBackyard Data visualization",
+		"url": "https://cs50c-week12-16-kikima.srjcethanwilde.repl.co/"
+	},
+	{
+		"projectname": "My First Game",
+		"projectdate": "April 28, 2022",
+		"projectdescription": "Basic Phaser 3 game ",
+		"thumbnail": "assets/game1.jpg",
+		"alttext": "jumping game",
+		"url": "https://cs50c-week13-17-kikima.srjcethanwilde.repl.co/"
+	},
+	{
+		"projectname": "My Second Game",
+		"projectdate": "May 2, 2022",
+		"projectdescription": "More advanced Phaser3 game",
+		"thumbnail": "assets/game2.jpg",
+		"alttext": "advanced jumping game",
+		"url": "https://cs50c-week14-16-kikima.srjcethanwilde.repl.co/"
+	},
+  {
+		"projectname": "My First Portfolio",
+		"projectdate": "May 9, 2022",
+		"projectdescription": "First mobile App",
+		"thumbnail": "assets/portfolio.jpg",
+		"alttext": "software portfolio",
+		"url": "https://cs50c-week15-18-kikima.srjcethanwilde.repl.co/"
+	},
+  
+  {
+		"projectname": "WE DID IT!",
+		"projectdate": "May 15, 2022",
+		"projectdescription": "Let's call this a wrap!!",
+		"thumbnail": "assets/Ethan.jpg",
+		"alttext": "Thank you to Ethan",
+		"url": "https://cs50c-week15-18-kikima.srjcethanwilde.repl.co/"
+	}
+  
+  
+]
